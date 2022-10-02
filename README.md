@@ -40,6 +40,6 @@ pursue a prolonged career, as noted by my pursuit of continual career growth. To
 - :woman_technologist: You can find me at Cyber Mentor Dojo
 
 <!---
-CtrlZai/CtrlZai is a ✨ special ✨ repository because its `AboutMe.md` (this file) appears on your GitHub profile.
+CtrlZai/CtrlZai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
