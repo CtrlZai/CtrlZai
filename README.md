@@ -8,7 +8,7 @@
 
 Having spent over six years as a teacher in which I was captivated by the industry
 immediately, I successfully did a career change to pursue a challenging career that mix everything that I love education and Cybersecurity. 
-As such, I am now working supporting others to start their Cyber Security career.
+As such, I am now supporting others to start their Cyber Security career.
 
 ✐ Areas of Expertise
 
