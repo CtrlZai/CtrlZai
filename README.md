@@ -31,7 +31,7 @@ pursue a prolonged career, as noted by my pursuit of continual career growth. To
 
 
 
-- 👋 Hi, I’m @CtrlZai
+- 👋 Hi, I’m Zaira 
 - 👀 I’m interested in Cyber Security and Education 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on threat discovery and protection implementation 
