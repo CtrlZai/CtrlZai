@@ -35,7 +35,7 @@ pursue a prolonged career, as noted by my pursuit of continual career growth. To
 - 👀 I’m interested in Cyber Security and Education 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on threat discovery and protection implementation 
-- :scroll:Certificates - CySA+ | Sec+ | SC-900 | CISMP | CBS-401
+- :scroll:Certificates - CySA+ | Sec+ | SC-900 | CISMP | CC ISC2 | AZ-900 | CBS-401
 - 📫 How to reach me [https://www.linkedin.com/in/zaira-martinez-delgado](url)
 - :woman_technologist: You can find me at Cyber Mentor Dojo
 
